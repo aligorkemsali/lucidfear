@@ -39,13 +39,19 @@ Start Menu, Pause Menu with "Time Scale" control, and Game Over loops.
 🕹️ Controls
 
 "W, A, S, D" - Move
+
 Mouse - Look Around
+
 Shift - Run (Consumes Stamina)
+
 F - Toggle Flashlight
+
 ESC - Pause Game
+
 N - Developer Mode: Super Jump
 
 💻 Technical Highlights
+
 This project was developed using C# and Unity. Key technical implementations include:
 
 Coroutines & Timing: Used IEnumerator for managing game flow, timed events, and enemy scream intervals.
@@ -57,5 +63,6 @@ State Management: Enemy states (Idle, Scream, Chase, Attack) are controlled via 
 Physics Management: Handled interactions between CharacterController and Rigidbody to prevent physics glitches and falling through the map during death animations.
 
 👨‍💻 Developer
+
 Developed by Ali Görkem Sali. 
 Cutscenes created by Ebru Çelik.
