@@ -9,6 +9,7 @@ Waking up in the middle of a dark maze, Hayri must find his way out using a flas
 Your Goal: Scavenge for batteries, manage your stamina and light, and escape the maze before Zemheri catches you.
 
 ✨ Key Features
+
 🔦 Resource Management:
 
 Flashlight System: Real-time battery decay mechanics and lootable batteries scattered throughout the map.
